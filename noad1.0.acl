@@ -53,9 +53,7 @@
 
 
 #codoon
-(^|\.)adash\.m\.taobao\.com$
-(^|\.)\w*advert-create\w*\.\w*$
-(^|\.)imageads\.codoon\.com$
+((^|\.)imageads\.codoon\.com$
 (^|\.)s1\.codooncdn\.com$
 
 # 163
