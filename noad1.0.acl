@@ -55,6 +55,11 @@
 #codoon
 ((^|\.)imageads\.codoon\.com$
 (^|\.)s1\.codooncdn\.com$
+#XXlive
+(^|\.)pat\.farvd\.com$
+(^|\.)sdk\.cferw\.com$
+(^|\.)anquan\.luomi\.com$
+(^|\.)guanggao\.cxj2010\.com$
 
 # 163
 (^|\.)(adgeo|bobo|fa|g|g1|gb|nex)(\.corp|)\.163\.com$
