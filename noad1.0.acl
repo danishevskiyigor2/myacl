@@ -55,12 +55,20 @@
 #codoon
 ((^|\.)imageads\.codoon\.com$
 (^|\.)s1\.codooncdn\.com$
+
 #XXlive
 (^|\.)pat\.farvd\.com$
 (^|\.)sdk\.cferw\.com$
 (^|\.)anquan\.luomi\.com$
 (^|\.)guanggao\.cxj2010\.com$
 66.42.40.69/32
+
+#Ximalaya
+(^|\.)fdfs\.xmcdn\.com$
+(^|\.)ad\.ximalaya\.com$
+(^|\.)adse\.ximalaya\.com$
+(^|\.)mobwsa\.ximalaya\.com$
+(^|\.)adse\.wsa\.ximalaya\.com$
 
 # 163
 (^|\.)(adgeo|bobo|fa|g|g1|gb|nex)(\.corp|)\.163\.com$
