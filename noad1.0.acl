@@ -53,7 +53,10 @@
 
 #codoon
 ((^|\.)imageads\.codoon\.com$
+(^|\.)adash\.m\.taobao\.com:80$
+(^|\.)adash\.m\.taobao\.com$
 (^|\.)s1\.codooncdn\.com$
+(^|\.)s1\.codooncdn\.com:443$
 
 #XXlive
 (^|\.)pat\.farvd\.com$
