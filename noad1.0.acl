@@ -59,8 +59,6 @@
 (^|\.)ads\d{0,3}\..*$
 (^|\.)tracking\..*$
 
-#codoon
-(^|\.)s1\.codooncdn\.com$
 
 #Ximalaya   //2018-11-23 updated
 (^|\.)fdfs\.xmcdn\.com$
