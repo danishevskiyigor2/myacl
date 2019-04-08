@@ -60,7 +60,6 @@
 (^|\.)tracking\..*$
 
 #codoon
-((^|\.)imageads\.codoon\.com$
 (^|\.)s1\.codooncdn\.com$
 
 #Ximalaya   //2018-11-23 updated
